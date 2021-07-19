@@ -22,3 +22,6 @@ yarn lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+### documentação 
+https://br.vuejs.org/v2/cookbook/using-axios-to-consume-apis.html
+
